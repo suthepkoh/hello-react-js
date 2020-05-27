@@ -22,7 +22,7 @@ export default class App extends Component {
           this.count++;
           this.setState({clock: this.state.clock + 1 })
           console.log("Count: " + this.count);
-          <h1>Helllllo</h1>
+          <h1>qweqweqweq</h1>
         }}>count {this.count}</h1>
       </div>
     );
